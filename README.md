@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/bD97bHM.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/z1mgCN4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 First, I had much difficulty running macOS in a virtual machine, but was eventually successful. Throughout development, I had issues pushing to Github due to certain permissions being set. I spent much of my time figuring out how to properly commit and push my changes but triumphed after many attempts.
 ## License
 
-    Copyright [2021] [name of copyright https://i.imgur.com/bD97bHM.mp4]
+    Copyright [2021] [name of copyright https://i.imgur.com/z1mgCN4.gif]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
